@@ -1,0 +1,9 @@
+server {
+   client_max_body_size 50M;
+   listen 80 default_server;
+   root /var/www;
+   server_name localhost;
+   index index.html index.htm;
+   location / {
+   }
+}

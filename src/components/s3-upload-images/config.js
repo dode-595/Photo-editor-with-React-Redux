@@ -1,0 +1,10 @@
+
+ export const config = {
+    headers: {
+      'Accept': 'application/json',
+      'Content-Type': 'application/json',
+      'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiZjg0MWQ2NzlmNjgyZTdjOTUyYjYwNTRiZWJlZTA2YjYyZThiY2Y5MjYxNDVmZGJmMGI0MGViOGRhNzBjOWE4ZGE4MjJlYjUyMDQzNzRkNjEiLCJpYXQiOjE1OTE3MjU5ODksIm5iZiI6MTU5MTcyNTk4OSwiZXhwIjoxNjIzMjYxOTg5LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.U02G8phIUM2unEM3qgLn-GMMjN6qn3zNZvp5-8agjjKTYop1rkioLmutb_xkVBY2Z8PVZIldAW_FKI5ONF6jIt4jJFFjlRsXp1qCSdxI9RCOIuXjp12TKrR8zj8xKGcbvJE4FmFBlAzcjDPFgSKkaSX4yh2V_BHBCPYozHWQrvy9Hnnu97gLQs8AHtYlZM5TWXpYm5pqK6yH8sj5zrByf3s1ITJcCKIoeki6vp-Lu-EamLyzLJffelcMpqZwOuI6cboCSQqc35WgBYR0Rq6Z_D_IPFmu5GQQmvIRInLrHlX0vn2invccms8cj2qhesAKs04Xcf0uoV38agaF7VaW433cRPiM9NdbkxgADwNRvuznirFWvCaCgOkXm8Sif65M-N7aOtnF0oVZx-PuAp-GtpRP4Ei_MFqqB8s2H4Z6ne9lM5CsND7dczAvHKNER-2pgOHkI63OkglXTj1tvAVa0jV4MHHckCoyLT7524QOBA_hRfNe4TOzYs6FdLrZJlbRxfeZb0d0rCX9wyg5Ik_9m-lMnyGfO1ExumA1hk27J4u_K3qkFQsj_5xWkvNMRhFFOTFkUfdaxK0dPLGX9EeVz8D_AGT8q-JT-ipar8b4d4tB8codg_hr1XTapE2lWxvgK_6j9uhoGMlj-fH-ilBpFWb24d_frcSK3_skloOqr64'
+     }
+  };
+
+  

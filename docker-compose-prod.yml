@@ -1,0 +1,15 @@
+version: '3.3'
+
+services:
+    # The Web Server
+  web:
+    container_name: le-cherut-web
+    build:
+      context: ./
+      dockerfile: web.dockerfile
+    volumes:
+      - './build:/var/www'
+    working_dir: /var/www/    
+    ports:
+      - 9111:80
+  
